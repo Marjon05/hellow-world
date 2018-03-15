@@ -1,2 +1,5 @@
 # hellow-world
-My first repository
+
+Hello Humans!
+
+Marjon here, I'm new in programming and developing.
